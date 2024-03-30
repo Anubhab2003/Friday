@@ -1,0 +1,81 @@
+Friday is a virtual assistant program based on the code you provided. It's like having a helpful computer helper at your service. Here's a breakdown of what Friday can do:
+
+1. Respond to greetings and inquiries:
+
+Friday can greet you in the morning, afternoon, or evening.
+It can answer basic questions about itself, like its name.
+2. Assist with web browsing:
+
+Friday can open various websites for you based on your request.
+This can include search engines (Google), entertainment sites (Youtube), social media (Instagram), e-commerce platforms (Amazon, Flipkart), communication tools (Gmail, Meet), and professional networking (Linkedin).
+3. Access information:
+
+You can ask Friday to search Wikipedia for information on a specific topic.
+It can also provide summaries of factual queries you have.
+4. Play entertainment:
+
+Friday can search and play videos for you on Youtube.
+It can also play music from your specified music directory.
+5. Check weather:
+
+Friday can open a weather forecast website upon request.
+6. Perform basic utility functions:
+
+Friday can tell you the current date and time.
+It can check your system's battery level.
+In theory (commented out in your code), it could send emails (requires setup).
+7. Control some system functions (Windows specific):
+
+Friday can adjust your system volume (up, down, mute).
+It can control display brightness.
+It can toggle airplane mode.
+It can open specific programs like Notepad and Command Prompt.
+8. Limited physical action simulation (Windows specific):
+
+Friday can't directly control physical devices, but it can use keyboard shortcuts to simulate some actions like volume control and brightness adjustment.
+
+
+Here are List of Commands you can ask to Friday
+General
+
+what is your name
+how are you
+do you eat
+are you single
+the time
+date
+shutdown
+Web Browsing
+
+open google
+open youtube
+open stackoverflow
+open amazon
+open flipkart
+open gmail
+open meet
+open Instagram
+open linkedin
+open command prompt
+Information Retrieval
+
+wikipedia [search query] (e.g. wikipedia dogs)
+who is [person name]
+what is [thing] (e.g. what is gravity)
+Entertainment
+
+play [video name] (on Youtube)
+play music
+Weather
+
+check weather
+Utility
+
+how much power left (battery level)
+volume up
+volume down
+mute
+Brightness up
+Brightness down
+airplane mode
+notepad
